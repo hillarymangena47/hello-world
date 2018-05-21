@@ -4,8 +4,8 @@ Hie there, Hillary here. IoT, Data Science, Machine Learning, AI? It's not so mu
 
 I'm particulary interested in emerging technologies, and this account is a collection my very small yet growing portfolio.
 
-HTML, CSS and JS
-Angular
+HTML, CSS and JS:
+Angular6
 
-Python
+Python:
 Jupyter Notebook
